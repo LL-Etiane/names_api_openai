@@ -2,6 +2,9 @@
 
 This API, written in Node.js, allows you to retrieve the meaning of names. The API has a single endpoint, `/name-meaning`, which returns the meaning of a given name.
 
+## API URL
+<a href="https://names-api-openai.onrender.com/name-meaning">https://names-api-openai.onrender.com/name-meaning</a>
+
 ```
 
 ## Usage
